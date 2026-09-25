@@ -1,6 +1,7 @@
 {
-  "name": "A.I 2.0 Secure Suite",
+  "name": "AI 2.0 Secure Suite",
   "short_name": "AI 2.0",
+  "description": "AI 2.0 Secure Suite PWA application",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -8,16 +9,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://via.placeholder.com/512.png",
+      "src": "https://shauryasoni9931-max.github.io/SecureAI2/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "https://shauryasoni9931-max.github.io/SecureAI2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
